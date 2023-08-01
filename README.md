@@ -17,7 +17,7 @@ This project contains the PCB design files for a USB charger inspired by Altium 
 - `bom.txt`: Bill of Materials listing required components.
 - `schematics/`: Schematic diagrams of the design.
 - `documentation/`: Information about usage and safety considerations.
-- `design_video/`: [Link to the design video on YouTube]().
+- `design_video/`: [Link to the design video on YouTube](https://www.youtube.com/channel/UCBQgzupnTvatuVefg4Lp2NQ).
 
 ## How to Contribute
 
